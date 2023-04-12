@@ -1,6 +1,6 @@
 class Conta(): #CLASSE MÃE
 
-    #atributos 1
+    #atributos 3
 
     def __init__(self):  
         self.__saldo = 0
